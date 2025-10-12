@@ -1,5 +1,5 @@
 # Examples
-There is no nothing insteresting in this repository. There are some example files.
+There is no nothing insteresting in this repository. There are some example files in it.
 
 For example, when I need to test something like Python project, or music file, or image, i can just:
 
