@@ -7,4 +7,4 @@ For example, when I need to test something like Python project, or music file, o
 git clone https://github.com/Dimon8279/examples
 ```
 
-And I can get different types of files in one command.
+And I can get different types of files in one command, to test them in fresh-installed OS.
